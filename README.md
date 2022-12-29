@@ -1,6 +1,6 @@
 # Mentorship Codesamples
 
-<img src="[http://....jpg](https://user-images.githubusercontent.com/38949950/209966424-8df3d478-b2aa-4857-a460-43f3176f787e.png)" width="200" />
+<img src="[http://....jpg](https://user-images.githubusercontent.com/38949950/209966424-8df3d478-b2aa-4857-a460-43f3176f787e.png)" width="200"  height="200"/>
 
 This repository contains code samples and resources for a data science mentorship program. It is designed to help learners gain a deep understanding of data science concepts and techniques, and to develop the skills needed to apply these techniques to real-world problems. 
 
